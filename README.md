@@ -9,6 +9,6 @@ Since modlists supported by tools like [Wabbajack](https://www.wabbajack.org) an
 Nexus AutoDL is an autoclicker (a.k.a., autodownloader, bot) that helps automate this process for you.
 Specifically, while Nexus AutoDL is running, any time a [mod](https://raw.githubusercontent.com/parsiad/nexus-autodl/master/assets/mod_download_page.jpg) or [collection](https://raw.githubusercontent.com/parsiad/nexus-autodl/master/assets/vortex_download_page.jpg) download page is visible on your screen, Nexus AutoDL will attempt to click the download button.
 
-## Download
+## The Website (bad download link)
 
-👉 [Visit the website](https://parsiad.github.io/nexus-autodl) 👈 to download
+[Visit the website](https://parsiad.github.io/nexus-autodl)
